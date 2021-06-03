@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "RMA_LV5_ZAD1"
