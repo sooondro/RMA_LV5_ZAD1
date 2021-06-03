@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">RMA_LV5_ZAD1</string>
+    <string name="shootGunText">Shoot gun</string>
+    <string name="shootSniperText">Shoot sniper</string>
 </resources>
